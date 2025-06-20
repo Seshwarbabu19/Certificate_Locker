@@ -80,6 +80,8 @@ This project aims to modernize and secure digital credential management by lever
  ### 📥 Clone the Repository 
  ```bash 
  git clone https://github.com/Seshwarbabu19/certificate-verification.git
+```
+```bash
  cd certificate-verification 
  ```
  ### 📦 Install Dependencies 
